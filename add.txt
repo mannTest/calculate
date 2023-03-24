@@ -2,6 +2,7 @@ public Class Add
 {
 public Add()
 {
+sub(a-b);
 addition=a+b;
 
 }
