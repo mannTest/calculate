@@ -3,6 +3,7 @@ public Class Add
 public Add()
 {
 addition=a+b;
+sub=a-b;
 
 }
 
