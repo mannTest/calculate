@@ -1,0 +1,14 @@
+public Class Add
+{
+public Add()
+{
+addition=a+b;
+
+}
+
+Public static void main(String [] args)
+{
+add a=new add();
+a.Add(3,2);
+}
+}
